@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BINGO</string>
+    <string name="BI">BI</string>
+    <string name="BIN">BIN</string>
+    <string name="BING">BING</string>
+    <string name="BINGO">BINGO</string>
+    <string name="Welcome">WELCOME</string>
+    <string name="start">START</string>
+</resources>
